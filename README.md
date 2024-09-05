@@ -1,2 +1,2 @@
 # daspro-jobsheet2
-Repositoriku yang pertama
+hello Gaisss, ini adalah repository pertama saya.
